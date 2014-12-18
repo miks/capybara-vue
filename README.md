@@ -11,7 +11,7 @@ Installation
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'capybara-angular'
+gem 'capybara-vue'
 ```
 
 Usage
