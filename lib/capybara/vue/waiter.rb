@@ -50,7 +50,7 @@ module Capybara
           });
         JS
       end
-      
+
       def page_reloaded_on_wait?
         page.evaluate_script("window.vueReady === undefined")
       end
